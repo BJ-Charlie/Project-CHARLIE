@@ -1,4 +1,3 @@
-
 # CHARLIE: Dual-Hemisphere Cognitive Architecture & Autonomous Synthesis
 **Lead Architect & Author:** Mr. Brad-Lee John Moss
 **Date:** March 2026
