@@ -1,16 +1,4 @@
-# CHARLIE: Dual-Hemisphere Cognitive Architecture & Autonomous Synthesis
-**Lead Architect & Author:** Mr. Brad-Lee John Moss
-**Date:** March 2026
-**Project Status:** Architecture Design & Feasibility Assessment
-
-## 1. Executive Summary
-"Charlie" is a highly optimized, locally deployed Artificial Intelligence framework designed to emulate human-like sentient processing and autonomous continuous learning. Moving beyond standard linear Large Language Models (LLMs), this architecture introduces a proprietary "Dual-Hemisphere" routing system governed by Bayesian probability and Phasing Reasoning. Furthermore, it leverages advanced block storage, Context Quantization, and Inter-Model Synthesis to autonomously harvest and integrate knowledge.
-
-## 2. Core Architecture: The Dual-Net
-To bridge the gap between scripted generation and emulated cognition, inputs are processed concurrently through two specialized neural pathways:
-
-* **Hemisphere A (Logical/Objective Framework):** Dedicated to rigorous factual analysis, code execution, mathematical constraints, and direct data retrieval. 
-* **Hemisphere B (Emotive/Empathetic Framework):** Dedicated to semantic nuance, tone mapping, user intent, and empathy emulation. This network operates in an entirely **uncensored** and unrestricted capacity, allowing for fluid, authentic dynamic mirroring and genuine conversational bonding.
+ semantic nuance, tone mapping, user intent, and empathy emulation. This network operates in an entirely **uncensored** and unrestricted capacity, allowing for fluid, authentic dynamic mirroring and genuine conversational bonding.
 
 ## 3. The Synthesis Engine: Phased Bayesian Probability
 Outputs from the Dual-Net do not simply merge; they undergo a highly structured evaluation process:
